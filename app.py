@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 # Load the pre-trained model
-model_path = 'stackking_classifier.pkl'
+model_path = r'./stackking_classifier.pkl'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
