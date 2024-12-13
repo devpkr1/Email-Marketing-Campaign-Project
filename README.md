@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/email-campaign-prediction.git
+   git clone https://github.com/devpkr1/Email-Marketing-Campaign-Project.git
    cd email-campaign-prediction
    ```
 
